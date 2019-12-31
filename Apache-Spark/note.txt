@@ -1,0 +1,2 @@
+# to open pyspark in windows command
+pyspark --master local[2]
